@@ -4,14 +4,10 @@
  */
 var isPalindrome = function(s) {
     let convertString = s.toLowerCase().replace(/[^a-z0-9]/g, '');
-    let left = 0;
-    let right = convertString.length -1;
-    while(left < right){
-        if(convertString[left] !== convertString[right]){
+    for(let i =0; i < (convertString.length - 1) / 2; i++){
+        if(convertString[i] !== convertString[(convertString.length -1) - i]){
             return false;
         }
-        left++;
-        right--;
     }
     return true;
 };

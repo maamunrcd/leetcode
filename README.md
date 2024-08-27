@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/maamunrcd/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->

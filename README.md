@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/maamunrcd/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/maamunrcd/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maamunrcd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -78,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/maamunrcd/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

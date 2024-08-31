@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/maamunrcd/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/maamunrcd/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/maamunrcd/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/maamunrcd/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/maamunrcd/leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/maamunrcd/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/maamunrcd/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/maamunrcd/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
 |  |
 | ------- |

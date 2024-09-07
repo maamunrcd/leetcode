@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/maamunrcd/leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/maamunrcd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maamunrcd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/maamunrcd/leetcode/tree/master/0198-house-robber) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/maamunrcd/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0070-climbing-stairs) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maamunrcd/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/maamunrcd/leetcode/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

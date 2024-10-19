@@ -23,11 +23,11 @@ var evalRPN = function(tokens) {
               result.push(op1 * op2);
               break;
             case '/':
-              result.push(parseInt(op1 / op2));
+              result.push(Math.trunc(op1 / op2));
               break;
             default:
                 result.push(+char);
         }
     }
-    return result;
+    return result.pop();
 };

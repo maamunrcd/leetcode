@@ -5,14 +5,15 @@
  */
 var join = function(arr1, arr2) {
     const result = {};
-    const joinTwoArray = [...arr1, ...arr2];
-    for(let i = 0; i < joinTwoArray.length; i++){
-        if(result[joinTwoArray[i].id]){
-            result[joinTwoArray[i].id] = {...result[joinTwoArray[i].id], ...joinTwoArray[i]};
-
+    arr1.forEach((item)=> {
+        result[item.id] = item;
+    });
+    arr2.forEach((item)=> {
+        if(result[item.id]){
+            result[item.id] = {...result[item.id], ...item}
         } else {
-            result[joinTwoArray[i].id] = {...joinTwoArray[i]}
+            result[item.id] = item;
         }
-    }
+    })
     return Object.values(result);
 };

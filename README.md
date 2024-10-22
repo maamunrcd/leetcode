@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maamunrcd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/maamunrcd/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/maamunrcd/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/maamunrcd/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/maamunrcd/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/maamunrcd/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/maamunrcd/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/maamunrcd/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |

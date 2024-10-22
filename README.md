@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/maamunrcd/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/maamunrcd/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/maamunrcd/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/maamunrcd/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/maamunrcd/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/maamunrcd/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/maamunrcd/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/maamunrcd/leetcode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/maamunrcd/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

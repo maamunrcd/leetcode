@@ -12,5 +12,5 @@ var isAnagram = function(s, t) {
         charCount[s[i]] = (charCount[s[i]] || 0) + 1;
         charCount[t[i]] = (charCount[t[i]] || 0) - 1;
     }
-    return Object.values(charCount).every(item => item === 0);
+    return Object.values(charCount).every(item=> item == 0);
 };

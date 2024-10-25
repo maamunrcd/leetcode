@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/maamunrcd/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/maamunrcd/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/maamunrcd/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/maamunrcd/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/maamunrcd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maamunrcd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/maamunrcd/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/maamunrcd/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/maamunrcd/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/maamunrcd/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maamunrcd/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |

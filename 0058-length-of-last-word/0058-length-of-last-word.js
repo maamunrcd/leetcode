@@ -1,12 +1,13 @@
 /**
- * @param {string} s
+ * @param {string} 
  * @return {number}
  */
 var lengthOfLastWord = function(s) {
-    let covertStrToArray = s.split(" ");
-    for(let i = covertStrToArray.length -1; i >= 0; i--){
-        if(covertStrToArray[i] !== ''){
-            return covertStrToArray[i].length;
+    let removeStr = s.split(" ");
+    for(let i = removeStr.length-1; 0 <= i; i--){
+        if(removeStr[i] !==''){
+            return removeStr[i].length;
         }
     }
+    return 0;
 };

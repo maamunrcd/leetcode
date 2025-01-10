@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0932-monotonic-array](https://github.com/maamunrcd/leetcode/tree/master/0932-monotonic-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/maamunrcd/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/maamunrcd/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/maamunrcd/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/maamunrcd/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/maamunrcd/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/maamunrcd/leetcode/tree/master/0657-robot-return-to-origin) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/maamunrcd/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maamunrcd/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Backtracking
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
+## Matrix
+|  |
+| ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->

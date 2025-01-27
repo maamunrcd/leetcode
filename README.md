@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/maamunrcd/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/maamunrcd/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/maamunrcd/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2350-find-closest-number-to-zero](https://github.com/maamunrcd/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/maamunrcd/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/maamunrcd/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0890-lemonade-change](https://github.com/maamunrcd/leetcode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/maamunrcd/leetcode/tree/master/0932-monotonic-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/maamunrcd/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/maamunrcd/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maamunrcd/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/maamunrcd/leetcode/tree/master/0890-lemonade-change) |
 ## Memoization
 |  |
 | ------- |

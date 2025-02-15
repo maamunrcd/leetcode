@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/maamunrcd/leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/maamunrcd/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/maamunrcd/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/maamunrcd/leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/maamunrcd/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/maamunrcd/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Bit Manipulation
@@ -222,5 +224,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/maamunrcd/leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/maamunrcd/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/maamunrcd/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

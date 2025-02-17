@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/maamunrcd/leetcode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/maamunrcd/leetcode/tree/master/0932-monotonic-array) |
+| [1127-last-stone-weight](https://github.com/maamunrcd/leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/maamunrcd/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/maamunrcd/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/maamunrcd/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/maamunrcd/leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->

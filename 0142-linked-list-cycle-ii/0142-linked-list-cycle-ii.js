@@ -12,14 +12,19 @@
  */
 var detectCycle = function(head) {
     if(!head) return null;
-    const obj = new Set();
-    let temp = head;
-    while(temp !==null){
-        if(obj.has(temp)){
-            return temp;
-        } 
-        obj.add(temp);
-        temp = temp.next;
+    let slow = head;
+    let fast = head;
+    while(fast != null && fast.next !=null){
+        slow = slow.next;
+        fast = fast.next.next;
+        if(slow === fast){
+            slow = head;
+            while(slow !==fast){
+                slow = slow.next;
+                fast = fast.next;
+            }
+            return  slow;
+        }
     }
     return null;
 };

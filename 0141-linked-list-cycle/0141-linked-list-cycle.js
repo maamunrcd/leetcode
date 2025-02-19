@@ -12,12 +12,13 @@
  */
 var hasCycle = function(head) {
     if(!head) return false;
-    let slow = head;
-    let fast = head;
+    let slow, fast;
+    slow = head;
+    fast = head;
     while(fast && fast.next){
         slow = slow.next;
         fast = fast.next.next;
-        if(fast == slow){
+        if(slow === fast){
             return true;
         }
     }

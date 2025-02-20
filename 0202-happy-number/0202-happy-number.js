@@ -9,8 +9,8 @@ var sumOfSquares = function(n){
         let digit = n % 10;
         sum+= digit * digit;
         n = Math.floor(n / 10);
-    }
-    return sum;
+     }
+     return sum;
 }
 var isHappy = function(n) {
     let seen = new Set();

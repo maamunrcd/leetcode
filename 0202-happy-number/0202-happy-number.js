@@ -13,10 +13,12 @@ var sumOfSquares = function(n){
      return sum;
 }
 var isHappy = function(n) {
-    let seen = new Set();
-    while(n !== 1 && !seen.has(n)){
-        seen.add(n);
-        n = sumOfSquares(n);
-    }
-    return n === 1;
+    let slow = n;
+    let fast = n;
+    do {
+        slow = sumOfSquares(slow);
+        fast = sumOfSquares(sumOfSquares(fast))
+    } while(slow !== fast);
+    return slow === 1;
+
 };

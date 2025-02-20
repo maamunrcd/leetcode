@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maamunrcd/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maamunrcd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/maamunrcd/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/maamunrcd/leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/maamunrcd/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/maamunrcd/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maamunrcd/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/maamunrcd/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/maamunrcd/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/maamunrcd/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/maamunrcd/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/maamunrcd/leetcode/tree/master/0202-happy-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/maamunrcd/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maamunrcd/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |

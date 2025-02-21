@@ -137,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/maamunrcd/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/maamunrcd/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/maamunrcd/leetcode/tree/master/0258-add-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/maamunrcd/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maamunrcd/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/maamunrcd/leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/maamunrcd/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/maamunrcd/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/maamunrcd/leetcode/tree/master/1127-last-stone-weight) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/maamunrcd/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

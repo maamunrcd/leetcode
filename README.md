@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/maamunrcd/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/maamunrcd/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/maamunrcd/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/maamunrcd/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/maamunrcd/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/maamunrcd/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/maamunrcd/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/maamunrcd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/maamunrcd/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/maamunrcd/leetcode/tree/master/0496-next-greater-element-i) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/maamunrcd/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maamunrcd/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/maamunrcd/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/maamunrcd/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/maamunrcd/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/maamunrcd/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/maamunrcd/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/maamunrcd/leetcode/tree/master/0268-missing-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/maamunrcd/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/maamunrcd/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/maamunrcd/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/maamunrcd/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maamunrcd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/maamunrcd/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/maamunrcd/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/maamunrcd/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/maamunrcd/leetcode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |

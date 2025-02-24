@@ -3,9 +3,7 @@
  * @return {number}
  */
 var missingNumber = function(nums) {
-    let totalSum = nums.length;
-    for(let i = 0; i < nums.length; i++){
-        totalSum += i-nums[i];
-    }
-    return totalSum;
+    const expectedSum = nums.length * (nums.length + 1) / 2;
+    const actualSum = nums.reduce((acc, item)=> acc + item, 0);
+    return expectedSum - actualSum;
 };

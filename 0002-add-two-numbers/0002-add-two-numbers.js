@@ -11,20 +11,18 @@
  * @return {ListNode}
  */
 var addTwoNumbers = function(l1, l2) {
-    let dummyHead = new ListNode(); 
-    let current = dummyHead; 
-    let carry = 0; 
-    
-    while (l1 || l2 || carry) {
-        let sum = (l1 ? l1.val : 0) + (l2 ? l2.val : 0) + carry;
-        carry = Math.floor(sum / 10);
-        
+    let dymmyHead = new ListNode();
+    let current = dymmyHead;
+    let curry = 0;
+    while(l1 || l2 || curry){
+        let sum = (l1 ? l1.val : 0) + (l2 ? l2.val : 0) + curry;
+        curry = Math.floor(sum / 10);
+
         current.next = new ListNode(sum % 10);
         current = current.next;
-        
+
         l1 = l1 ? l1.next : null;
         l2 = l2 ? l2.next : null;
     }
-    
-    return dummyHead.next;
+    return dymmyHead.next;
 };

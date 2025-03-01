@@ -4,16 +4,16 @@
  */
 var isValid = function(s) {
     const obj = {
-        "(":")",
-        "{":"}",
-        "[":"]"
-    };
+    "(": ")",
+    "{": "}",
+    "[": "]"
+    }
     let stuck = [];
-    for(let char of s){
-        if(obj[char]){
-            stuck.push(obj[char]);
+    for(let i of s){
+        if(obj[i]){
+          stuck.push(obj[i]);
         } else {
-            if(char === stuck[stuck.length -1]){
+            if(i === stuck[stuck.length -1]){
                 stuck.pop();
             } else {
                 return false;
@@ -22,3 +22,4 @@ var isValid = function(s) {
     }
     return stuck.length === 0;
 };
+

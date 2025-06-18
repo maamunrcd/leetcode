@@ -5,12 +5,12 @@
  */
 var twoSum = function(nums, target) {
     const obj = {};
-    let left = 0;
-    while(left < nums.length){
-        if(obj.hasOwnProperty(target - nums[left])){
-            return [obj[target - nums[left]], left];
+    for(let i = 0; i < nums.length; i++){
+        let diff = target - nums[i];
+        if(typeof obj[diff] != 'undefined'){
+            return [obj[diff], i];
         }
-        obj[nums[left]] = left;
-        left++;
+        obj[nums[i]] = i;
     }
+    return [];
 };

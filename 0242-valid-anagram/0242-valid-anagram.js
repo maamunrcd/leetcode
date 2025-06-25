@@ -7,10 +7,10 @@ var isAnagram = function(s, t) {
     if(s.length !== t.length){
         return false;
     }
-    let charCount = {};
+    const countChar = {};
     for(let i = 0; i < s.length; i++){
-        charCount[s[i]] = (charCount[s[i]] || 0) + 1;
-        charCount[t[i]] = (charCount[t[i]] || 0) - 1;
+        countChar[s[i]] = (countChar[s[i]] || 0) + 1;
+        countChar[t[i]] = (countChar[t[i]] || 0) - 1;
     }
-    return Object.values(charCount).every(item=> item == 0);
+    return Object.values(countChar).every(item => item === 0);
 };

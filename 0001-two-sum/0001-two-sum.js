@@ -5,13 +5,11 @@
  */
 var twoSum = function(nums, target) {
     const obj = new Map();
-    let left = 0;
-    while(left < nums.length){
-        let diff = target - nums[left];
-        if(obj.has(diff)){
-            return [obj.get(diff), left];
+    for(let i = 0; i < nums.length; i++){
+        let compare = target - nums[i];
+        if(obj.has(compare)){
+            return [i, obj.get(compare)];
         }
-        obj.set(nums[left], left);
-        left++;
+        obj.set(nums[i], i);
     }
 };

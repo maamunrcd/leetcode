@@ -4,17 +4,12 @@
  * @return {number[]}
  */
 var twoSum = function(numbers, target) {
-    let left = 0;
-    let right = numbers.length -1;
-    while(left < right){
-        let sum = numbers[left] + numbers[right];
-        if( sum == target){
-            return [left+1, right+1];
+    let obj = new Map();
+    for(let i = 0; i < numbers.length; i++){
+        let compare = target - numbers[i];
+        if(obj.has(compare)){
+            return [obj.get(compare)+ 1, i+1]
         }
-        if(sum > target){
-            right--;
-        } else {
-            left++;
-        }
+        obj.set(numbers[i], i);
     }
 };

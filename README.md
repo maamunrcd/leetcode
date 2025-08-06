@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maamunrcd/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/maamunrcd/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/maamunrcd/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/maamunrcd/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/maamunrcd/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maamunrcd/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maamunrcd/leetcode/tree/master/0088-merge-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/maamunrcd/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/maamunrcd/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/maamunrcd/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/maamunrcd/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/maamunrcd/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/maamunrcd/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/maamunrcd/leetcode/tree/master/0242-valid-anagram) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/maamunrcd/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maamunrcd/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/maamunrcd/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/maamunrcd/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/maamunrcd/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maamunrcd/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/maamunrcd/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/maamunrcd/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/maamunrcd/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/maamunrcd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/maamunrcd/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/maamunrcd/leetcode/tree/master/0217-contains-duplicate) |

@@ -16,8 +16,8 @@ var addTwoNumbers = function(l1, l2) {
     let remainder = 0;
     while(l1 || l2 || remainder){
         let sum = (l1 ? l1.val : 0) + (l2 ? l2.val : 0) + remainder;
-        remainder = Math.floor(sum / 10);
         current.next = new ListNode(sum % 10);
+        remainder = Math.floor(sum / 10);
         l1 = l1 ? l1.next : null;
         l2 = l2 ? l2.next : null;
         current = current.next;

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/maamunrcd/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/maamunrcd/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/maamunrcd/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/maamunrcd/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/maamunrcd/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/maamunrcd/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/maamunrcd/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -327,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/maamunrcd/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/maamunrcd/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

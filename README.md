@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maamunrcd/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/maamunrcd/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/maamunrcd/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/maamunrcd/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/maamunrcd/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/maamunrcd/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maamunrcd/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/maamunrcd/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maamunrcd/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/maamunrcd/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/maamunrcd/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/maamunrcd/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/maamunrcd/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/maamunrcd/leetcode/tree/master/0141-linked-list-cycle) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/maamunrcd/leetcode/tree/master/0036-valid-sudoku) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/maamunrcd/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/maamunrcd/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer

@@ -3,20 +3,17 @@
  * @return {number}
  */
 var maxArea = function(height) {
-    let left, right, maxFriquency;
-    left = 0;
-    right = height.length - 1;
-    maxFriquency = -Infinity;
+    let maxFreq = 0;
+    let left = 0;
+    let right = height.length -1;
     while(left < right){
-        let distance = right - left;
-        let minContainer = Math.min(height[left], height[right]);
-        maxFriquency = Math.max(maxFriquency, minContainer*distance);
+        let minValue = Math.min(height[left], height[right]);
+        maxFreq = Math.max(maxFreq, ((right - left) * minValue));
         if(height[left] < height[right]){
-            left++
+            left++;
         } else {
-            right--;
+            right --;
         }
     }
-    return maxFriquency;
-
+    return maxFreq;
 };

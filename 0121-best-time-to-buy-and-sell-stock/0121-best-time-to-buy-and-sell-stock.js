@@ -1,19 +1,19 @@
-/**
+/*
  * @param {number[]} prices
  * @return {number}
  */
 var maxProfit = function(prices) {
-    let profit = 0;
+    let maxProfit = 0;
     let left = 0;
-    let right = left + 1;
-    while(left < prices.length && right < prices.length){
-        profit = Math.max(profit, (prices[right]- prices[left]));
+    let right = left+1;
+    while(right < prices.length){
         if(prices[left] > prices[right]){
-            left++;
+            left = right;
             right = left+1;
         } else {
+            maxProfit = Math.max(maxProfit, prices[right] - prices[left]);
             right++;
         }
     }
-    return profit;
+    return maxProfit;
 };
